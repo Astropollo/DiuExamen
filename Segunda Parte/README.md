@@ -53,13 +53,13 @@ Miguel Suarez (20) es un joven estudiante de universidad de granada que le va mu
 
 ## Herramientas de deteccion
 
-Como podemos ver, la nota aportada es bastante buena, aunque en comparacion a GuruWalk, la experiencia de usuario al usar CityMe parece ser minimamente inferior.
+Podemos ver como la sensacion de los usuarios frente a ambas aplicaciones varia en gran medida y no de manera homogenea. Mientras que la madre soltera prefiere GuruWalk, el universitario prefiere CityMe. Para averiguar el porque CityMe si consigue cautivar al publico joven mientras que al publico adulto le deja con peor sabor de boca vamos a utilizar alguna de las herramientas que hemos visto en clase y practicas como son el Captura Grid y el Empathy Map
 
 Con el Capture Grid esperamos obtener un feedback de los usuarios a nivel funcional, cual es su experiencia haciendo uso de la aplicacion y que dudas o mejoras se les ocurre para la misma
 
 En cambio, con el Empathy Map esperamos comprender las posibles interferencias que pueda haber entre el mapa mental que tiene el usuario de lo que podria ser una ruta guiada desde un telefono movil para asi poder adaptarla lo maximo posible para que esta sea lo mas amigable posible
 
-![Capture Grid](fotos/CaptureGris.png)
+![Capture Grid](fotos/CaptureGrid.png)
 ![Empathy Map](fotos/EmpathyMap.png)
 
 
