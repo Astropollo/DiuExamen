@@ -59,7 +59,10 @@ Con el Capture Grid esperamos obtener un feedback de los usuarios a nivel funcio
 
 En cambio, con el Empathy Map esperamos comprender las posibles interferencias que pueda haber entre el mapa mental que tiene el usuario de lo que podria ser una ruta guiada desde un telefono movil para asi poder adaptarla lo maximo posible para que esta sea lo mas amigable posible
 
+### Capture Grid
 ![Capture Grid](fotos/CaptureGrid.PNG)
+
+### Empathy Map
 ![Empathy Map](fotos/EmpathyMap.PNG)
 
 
