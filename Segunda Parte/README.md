@@ -18,3 +18,12 @@ Ya viendo lo que la aplicacion CityMe quiere conseguir y como se diferencia de s
 
 ![Persona](fotos/JoseMartinez.PNG)
 
+Ya teniendo a nuestro personaje ficticio, vamos a hacer dos journeyMaps con ambas aplicaciones para sacar nuestras primeras conclusiones
+
+## Journey Map
+
+![Journey GuruWalk](fotos/GuruWalkJourney.PNG)
+
+![Journey CityMe](fotos/CityMeJourney.PNG)
+
+
