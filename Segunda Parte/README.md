@@ -26,4 +26,51 @@ Ya teniendo a nuestro personaje ficticio, vamos a hacer dos journeyMaps con amba
 
 ![Journey CityMe](fotos/CityMeJourney.PNG)
 
+Podemos ver como la aplicacion si que solventa ciertos problemas que despertaba el antiguo modelo de "GuruWalk". Es por ello que por ultimo y para corroborar esta decision vamos a hacer el Test SUS con dos personas aleatorias que sacaremos con los dados vistos en las sesiones de teoria y que enseñaremos a continuacion y de esta forma daremos por evaluada la aceptacion o no de esta nueva aplicacion
+
+## Test SUS
+
+### Personas ficticias
+
+![Imagen Dados](fotos/dados.png) Imagen de los dados para obtener los usuarios
+
+<b>Usuario1</b>
+<br>&emsp;2 familia - 6 persona mayor con energía - 5 disgustada
+<br>&emsp;Aplicacion A
+<br>&emsp;Experiencia baja en Windows y teléfono móvil
+<br>&emsp;Busca nuevas experiencias<br>
+
+Sara Ramirez (37), contable y persona extrovertida,
+desde que tuvo a su primer hijo su vida social se ha visto bastante resentida y eso le
+disgusta, es por eso que aunque se sienta mayor aun asi quiere salir y seguir disfrutando
+de la vida.
+
+<b>Usuario2</b>
+<br>&emsp;2 familia - 6 persona mayor con energía - 5 disgustada
+<br>&emsp;Aplicacion A
+<br>&emsp;Experiencia baja en Windows y teléfono móvil
+<br>&emsp;Busca nuevas experiencias<br>
+
+Sara Ramirez (37), contable y persona extrovertida,
+desde que tuvo a su primer hijo su vida social se ha visto bastante resentida y eso le
+disgusta, es por eso que aunque se sienta mayor aun asi quiere salir y seguir disfrutando
+de la vida.
+
+
+
+### Test SUS
+![Test SUS](fotos/TestSUS.png)
+
+## Herramientas de deteccion
+
+Como podemos ver, la nota aportada por los usuarios no es excelente. Para conocer las razones de esto vamos a usar las herramientas que hemos visto en teoria como Empathy Map y Capture Grid.
+
+Con el Capture Grid esperamos obtener un feedback de los usuarios a nivel funcional, cual es su experiencia haciendo uso de la aplicacion y que dudas o mejoras se les ocurre para la misma
+
+En cambio, con el Empathy Map esperamos comprender las posibles interferencias que pueda haber entre el mapa mental que tiene el usuario de lo que podria ser una ruta guiada desde un telefono movil para asi poder adaptarla lo maximo posible para que esta sea lo mas amigable posible
+
+![Capture Grid](fotos/CaptureGris.png)
+![Empathy Map](fotos/EmpathyMap.png)
+
+
 
