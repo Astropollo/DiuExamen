@@ -36,34 +36,24 @@ Podemos ver como la aplicacion si que solventa ciertos problemas que despertaba 
 
 <b>Usuario1</b>
 <br>&emsp;2 familia - 6 persona mayor con energía - 5 disgustada
-<br>&emsp;Aplicacion A
 <br>&emsp;Experiencia baja en Windows y teléfono móvil
-<br>&emsp;Busca nuevas experiencias<br>
+<br>&emsp;Le encanta las ciudades con historia<br>
 
-Sara Ramirez (37), contable y persona extrovertida,
-desde que tuvo a su primer hijo su vida social se ha visto bastante resentida y eso le
-disgusta, es por eso que aunque se sienta mayor aun asi quiere salir y seguir disfrutando
-de la vida.
+Marta Nuñez (42), contable y persona extrovertida, siempre me ha gustado viajar, pero desde que tuvo a su primer hijo sin un padre que la ayudase se vio obligada a dejar esta aficion de lado para poder costearse los gastos del niño lo que le disgusto bastante. Ahora que el hijo ya tiene 12 años, puede volver a retomarlo con su hijo y enseñarle lugares aluciantes.
 
-<b>Usuario2</b>
-<br>&emsp;2 familia - 6 persona mayor con energía - 5 disgustada
-<br>&emsp;Aplicacion A
-<br>&emsp;Experiencia baja en Windows y teléfono móvil
-<br>&emsp;Busca nuevas experiencias<br>
+<br><b>Usuario2</b>:
+<br>&emsp;3 vida social - 5 fotografía - 3 felicidad
+<br>&emsp;Experiencia media en Windows y teléfono móvil
+<br>&emsp;Le gustaria viajar por todos lados<br>
 
-Sara Ramirez (37), contable y persona extrovertida,
-desde que tuvo a su primer hijo su vida social se ha visto bastante resentida y eso le
-disgusta, es por eso que aunque se sienta mayor aun asi quiere salir y seguir disfrutando
-de la vida.
-
-
+Miguel Suarez (20) es un joven estudiante de universidad de granada que le va muy bien la carrera y tiene ganas de irse de viaje con su nuevo grupo de amistad de la universidad a algun lado de España
 
 ### Test SUS
-![Test SUS](fotos/TestSUS.png)
+![Test SUS](fotos/TestSUS.PNG)
 
 ## Herramientas de deteccion
 
-Como podemos ver, la nota aportada por los usuarios no es excelente. Para conocer las razones de esto vamos a usar las herramientas que hemos visto en teoria como Empathy Map y Capture Grid.
+Como podemos ver, la nota aportada es bastante buena, aunque en comparacion a GuruWalk, la experiencia de usuario al usar CityMe parece ser minimamente inferior.
 
 Con el Capture Grid esperamos obtener un feedback de los usuarios a nivel funcional, cual es su experiencia haciendo uso de la aplicacion y que dudas o mejoras se les ocurre para la misma
 
