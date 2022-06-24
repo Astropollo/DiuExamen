@@ -65,5 +65,9 @@ En cambio, con el Empathy Map esperamos comprender las posibles interferencias q
 ### Empathy Map
 ![Empathy Map](fotos/EmpathyMap.png)
 
+## Conclusiones
+
+En definitiva, con estos dos ultimos diagramas podemos concluir que, aunque la aplicacion puede ser correcta, le falta ciertas funcionalidades que faciliten el uso de la misma. Como un boton en la barra de navegacion que recomiende ciertas rutas para la ciudad que se encuentran visitando o algun icono especial que marque los lugares mas importantes. Ya que el principal punto fuerte de esta aplicacion es la libertad para visitar la ciudad a tu ritmo, pero para aquellos extranjeros que no la conocen ni saben de esta, pueden llegar a perderse lo autenticamente bonito de las mismas entre tantas localizaciones con relativa menos importancia que estas o incluso perder mas tiempo en casa organizando las rutas y las localizaciones al visitar que lo que se ahorran en ir con un "guru" o guia turistico, que le podria dar hasta una mejor experiencia.
+
 
 
