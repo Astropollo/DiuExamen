@@ -1,3 +1,5 @@
 # DiuExamen
 
-Heacho por Luis Guerra Batista
+Hecho por Luis Guerra Batista
+
+Directorio: https://github.com/Astropollo/DiuExamen
