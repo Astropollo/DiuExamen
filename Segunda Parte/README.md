@@ -34,7 +34,7 @@ Podemos ver como la aplicacion si que solventa ciertos problemas que despertaba 
 
 ![Imagen Dados](fotos/dados.png) Imagen de los dados para obtener los usuarios
 
-<b>Usuario1</b>
+<b>Usuario1</b>:
 <br>&emsp;2 familia - 6 persona mayor con energía - 5 disgustada
 <br>&emsp;Experiencia baja en Windows y teléfono móvil
 <br>&emsp;Le encanta las ciudades con historia<br>
