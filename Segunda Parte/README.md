@@ -63,7 +63,7 @@ En cambio, con el Empathy Map esperamos comprender las posibles interferencias q
 ![Capture Grid](fotos/CaptureGrid.PNG)
 
 ### Empathy Map
-![Empathy Map](fotos/EmpathyMap.PNG)
+![Empathy Map](fotos/EmpathyMap.png)
 
 
 
